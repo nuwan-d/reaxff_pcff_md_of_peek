@@ -4,6 +4,10 @@ This repository provides LAMMPS input scripts and data files for atomistic model
 
 The models are designed for molecular dynamics (MD) simulations of polymer deformation, damage evolution, and failure mechanisms at the nanoscale. The graphical abstract is shown below.
 
+<p align="center">
+  <img src="graphical_abstract.png" width="900">
+</p>
+
 ## 📦 Contents
 
 - `ReaxFF/` – LAMMPS input files and data files for ReaxFF simulations  
