@@ -8,7 +8,7 @@ The models are designed for molecular dynamics (MD) simulations of polymer defor
   <img src="graphical_abstract.jpg" width="900">
 </p>
 
-## 📦 Contents
+## Contents
 
 - `ReaxFF/` – LAMMPS input files and data files for ReaxFF simulations  
 - `PCFF/` – LAMMPS input files and data files for PCFF simulations  
